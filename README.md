@@ -59,7 +59,7 @@ There were
 - **52.69 %** of **non-Vine** reviews were 5 stars.
 
 <p align="center">
-<img src="Graphics/Percentage.PNG" width="60%" height="60%">
+<img src="Graphics/Percentage.PNG" width="50%" height="50%">
 </p>
 
 <p align="center">
