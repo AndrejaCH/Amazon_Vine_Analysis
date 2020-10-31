@@ -26,7 +26,9 @@ In this analysis we analyzed reviews that have more than 20 total votes and the 
 
 ***How many Vine reviews and non-Vine reviews were there?***
 
-There were **107 Vine** reviews and **39,869 non-Vine** reviews.
+There were
+- **107 Vine** reviews and 
+- **39,869 non-Vine** reviews.
 
 <p align="center">
 <img src="Graphics/TotalRevievs.PNG" width="50%" height="50%">
@@ -39,7 +41,9 @@ There were **107 Vine** reviews and **39,869 non-Vine** reviews.
 
 ***How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?***
 
-There were **56** five stars **Vine** reviews and **21,005**  five stars **non-Vine** reviews.
+There were
+- **56** five stars **Vine** reviews and 
+- **21,005**  five stars **non-Vine** reviews.
 
 <p align="center">
 <img src="Graphics/5stars.PNG" width="50%" height="50%">
@@ -51,7 +55,8 @@ There were **56** five stars **Vine** reviews and **21,005**  five stars **non-V
 
 ***What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?***
 
-**52.34 %** of **Vine** reviews were 5 stars and **52.69 %** of **non-Vine** reviews were 5 stars.
+- **52.34 %** of **Vine** reviews were 5 stars and 
+- **52.69 %** of **non-Vine** reviews were 5 stars.
 
 <p align="center">
 <img src="Graphics/Percentage.PNG" width="60%" height="60%">
