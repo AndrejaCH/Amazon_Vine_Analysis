@@ -69,7 +69,7 @@ There were
 
 ## Summary
 
-The purpose of this analysis is to analyze if there is any bias toward favorable reviews from Vine members in the dataset. We analyzed reviews that have more than 20 total votes and the percentage of helpful votes is equal or greater than 50. We made this selection in order to pick reviews that are more likely to be helpful.
+The purpose of this analysis is to analyze and determine if there is any bias toward favorable reviews from Vine members in the dataset. We analyzed reviews that have more than 20 total votes and the percentage of helpful votes is equal or greater than 50. We made this selection in order to pick reviews that are more likely to be helpful.
 
 **Positivity bias for reviews in the Vine program**
 
