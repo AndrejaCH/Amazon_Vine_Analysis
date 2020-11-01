@@ -77,7 +77,7 @@ In the analysis we analyze 5-star reviews within conditions mentioned above. Cal
 
 **Additional analyses and suggestions**
 
-We could expand this analysis by calculating percentage for all stars reviews. Based on the results (Figure 1), there is a larger difference in percentage for 1-star reviews than for 5-stars reviews. Vine reviews have only 0.93% of 1-star review, while non-Vine reviews have 13.35 % 1-star reviews within conditions mentioned above. Similarly, there are less 2-stars Vine reviews (1.87%), than for non-Vine reviews (6.05%).  
+We could expand this analysis by calculating percentage for all stars reviews. Based on the results (Figure 4), there is a larger difference in percentage for 1-star reviews than for 5-stars reviews. Vine reviews have only 0.93% of 1-star review, while non-Vine reviews have 13.35 % 1-star reviews within conditions mentioned above. Similarly, there are less 2-stars Vine reviews (1.87%), than for non-Vine reviews (6.05%).  
 <p align="center">
 <img src="Graphics/Percentageallstars.PNG" width="60%" height="60%">
 </p>
@@ -87,7 +87,7 @@ We could expand this analysis by calculating percentage for all stars reviews. B
 </p>
 
 The results show that there could be positivity bias for reviews in the Vine program, when looking from 1 and 2-star perspective. 
-Additionally, I would suggest another analysis beyond the given dataset. Non-vine reviews outnumber Vine reviews for 37,260 % (in this dataset, within certain conditions). In this case Vine reviews won’t affect the overall rating of the item. On Amazon site for Vine reviews (https://www.amazon.com/gp/vine/help)[https://www.amazon.com/gp/vine/help] we can find explanation about the Vine program. The first sentence states: “Amazon Vine invites the most trusted reviewers on Amazon to post opinions about new and pre-release items to help their fellow customers make informed purchase decisions (1).” Vine reviews could have impact on newly released items sold on Amazon. For the manufacturer and their newly released products might be beneficial to have some reviews posted. At this point I would suggest to perform analysis on items that are similar (one with a Vine reviews and one without) and measure sales increase over time. Based on that we could observe if Vine reviews contributed to faster increase of the sales of newly released items. 
+Additionally, I would suggest another analysis beyond the given dataset. Non-vine reviews outnumber Vine reviews for 37,260 % (in this dataset, within certain conditions). In this case Vine reviews won’t affect the overall rating of the items. On Amazon site for Vine reviews (https://www.amazon.com/gp/vine/help)[https://www.amazon.com/gp/vine/help] we can find explanation about the Vine program. The first sentence states: “Amazon Vine invites the most trusted reviewers on Amazon to post opinions about new and pre-release items to help their fellow customers make informed purchase decisions (1).” Vine reviews could have impact on newly released items sold on Amazon. For the manufacturer and their newly released products might be beneficial to have some reviews posted. At this point I would suggest to perform analysis on items that are similar (one group with Vine reviews and some without) and measure sales increase over time. Based on that we could observe if Vine reviews contributed to faster increase of the sales of newly released items. 
 
 # References
 -	(1) Amazon.com https://www.amazon.com/gp/vine/help , Web 31 Oct 2020.
