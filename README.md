@@ -35,7 +35,7 @@ There were
 </p>
 
 <p align="center">
-<i>(Figure 1: Total Vine and non-Vine reviews.)</i>
+<i>Figure 1: Total Vine and non-Vine reviews.</i>
 </p>
 
 
@@ -50,7 +50,7 @@ There were
 </p>
 
 <p align="center">
-<i>(Figure 2: 5-star Vine and non-Vine reviews.)</i>
+<i>Figure 2: 5-star Vine and non-Vine reviews.</i>
 </p>
 
 ***What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?***
@@ -63,7 +63,7 @@ There were
 </p>
 
 <p align="center">
-<i>(Figure 3: Percentage of 5-star Vine and non-Vine reviews.)</i>
+<i>Figure 3: Percentage of 5-star Vine and non-Vine reviews.</i>
 </p>
 
 
@@ -83,7 +83,7 @@ We could expand this analysis by calculating percentage for all stars reviews. B
 </p>
 
 <p align="center">
-<i>(Figure 4: Summary table for all star reviews.)</i>
+<i>Figure 4: Summary table for all star reviews.</i>
 </p>
 
 The results show that there could be positivity bias for reviews in the Vine program, when looking from 1 and 2-star reviews perspective. 
